@@ -1,8 +1,9 @@
-# 📘 NoteX – AI-Powered Smart Notes with OCR & Translation
+# 📘 NoteX – AI-Powered Smart Notes with OCR, Translation & AI Studio
 
-NoteX is an Android productivity app that combines note-taking, OCR (Optical Character Recognition), AI-powered text enhancement, and translation into a single seamless experience.
+NoteX is an Android productivity app that transforms the way you take and use notes.  
+It combines OCR scanning, AI-powered transformation, and translation into a single seamless workflow.
 
-Instead of just extracting text, NoteX uses AI to refine, enhance, and even generate improved versions of notes before saving them — making it more than a simple scanner, but a smart writing assistant.
+Instead of just storing notes, NoteX helps you convert raw content into useful outputs like summaries, quizzes, flashcards, and in-depth explanations.
 
 ---
 
@@ -11,87 +12,112 @@ Instead of just extracting text, NoteX uses AI to refine, enhance, and even gene
 ### 📝 Smart Note Management
 - Create, edit, and delete notes
 - Clean and organized interface
-- Efficient note browsing using RecyclerView
+- Smooth browsing with RecyclerView
+
+---
 
 ### 📷 OCR Text Scanner
 - Capture images and extract text instantly
-- Convert physical notes into digital format
+- Convert handwritten or printed notes into digital format
 
-### 🤖 AI-Powered Enhancement (🔥 Core Feature)
-- Improve clarity and readability of extracted text
-- Automatically clean up messy or unstructured content
-- Generate refined, structured notes before saving
-- Acts like a built-in writing assistant
+---
+
+### 🤖 AI Studio (Core Feature)
+Turn any note into something useful with one tap:
+
+- Summarize – Convert long notes into concise key points  
+- Generate Quiz – Instantly create questions for revision  
+- Flashcards – Transform notes into study cards  
+- In-Depth Mode – Expand content into detailed explanations  
+
+NoteX doesn’t just generate text — it transforms notes into actionable knowledge.
+
+---
+
+### ✍️ AI Enhancement
+- Clean messy or unstructured text
+- Improve clarity and readability
+- Automatically format notes into structured content
+
+---
 
 ### 🌍 Translation
 - Translate notes into multiple languages
-- Useful for multilingual users and learning
+- Useful for multilingual users and language learners
 
-### 💾 File Management
-- Save notes and processed content locally
-- Access and manage saved files easily
+---
+
+### ☁️ Cloud Sync (Firebase)
+- Secure user-based storage
+- Access your notes across devices
+- Private data separation per user
+
+---
 
 ### ⚙️ Settings
-- Simple and customizable user preferences
+- Simple customization options
+- User-friendly configuration
 
 ---
 
 ## 🧠 How It Works
 
-1. Scan or input text manually  
-2. Extract text using OCR  
-3. Enhance or rewrite content using AI  
+1. Input text or scan using OCR  
+2. Clean and enhance content using AI  
+3. Transform notes using AI Studio  
 4. Translate if needed  
-5. Save the final refined note  
+5. Save and access anytime  
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Language:** Java  
-- **Platform:** Android  
-- **Database:** Firebase  
-- **UI:** XML + RecyclerView  
-- **Core Features:**
-  - OCR Text Recognition  
-  - AI Text Processing / Enhancement  
-  - Translation API  
+- Language: Java  
+- Platform: Android  
+- Database: Firebase (user-based cloud storage)  
+- UI: XML + RecyclerView  
+
+Core Integrations:
+- OCR Text Recognition  
+- AI Text Processing / Transformation  
+- Translation API  
 
 ---
 
-## 🎯 What Makes This Project Unique
+## 🎯 What Makes NoteX Different
 
-Unlike traditional note apps, NoteX:
-- Combines OCR + AI processing in one workflow
-- Transforms raw text into structured, readable notes
-- Demonstrates integration of intelligent features in a mobile app
+Unlike traditional note apps, NoteX focuses on:
 
-This project showcases real-world application of AI in productivity tools.
+- Note transformation instead of just storage  
+- Converting notes into quizzes, summaries, and flashcards  
+- Fast, one-tap AI workflows  
+- Practical use cases for students and productivity users  
 
 ---
 
 ## 📱 Screenshots
 
-![Home](screenshots/Home.png)
-![Scanner](screenshots/Scan.png)
-![Translate](screenshots/Translate.png)
-![Saved Files](screenshots/Studio.png)
+![Home](screenshots/Home.png)  
+![Scanner](screenshots/Scan.png)  
+![AI Studio](screenshots/Studio.png)  
+![Translate](screenshots/Translate.png)  
 
 ---
 
 ## 🚧 Future Improvements
 
+- Smart AI suggestions (context-aware actions)
+- Save AI outputs as structured notes (quiz sets, flashcards)
 - MVVM architecture (ViewModel + LiveData)
-- Room database integration
-- Cloud sync (Firebase)
-- Better AI customization (tone, summary, bullet points)
-- UI/UX enhancements with Material Design 3
+- Room database integration (offline-first support)
+- Material Design 3 UI upgrade
+- Advanced AI customization (tone, difficulty, format)
 
 ---
 
 ## 👨‍💻 Author
 
-**Ilyas Akbar Khan**
+Ilyas Akbar Khan
 
 ---
 
