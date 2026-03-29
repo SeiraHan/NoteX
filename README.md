@@ -75,7 +75,7 @@ This project showcases real-world application of AI in productivity tools.
 ![Home](screenshots/Home.png)
 ![Scanner](screenshots/Scan.png)
 ![Translate](screenshots/Translate.png)
-![Saved Files](screenshots/Save.png)
+![Saved Files](screenshots/Studio.png)
 
 ---
 
