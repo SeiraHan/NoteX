@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteX</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="scanning">Scanning...</string>
+    <string name="cleaning">Cleaning text with AI...</string>
+    <string name="save_success">Saved to Cloud!</string>
+    <string name="save_failed">Failed to save</string>
+    <string name="ocr_failed">OCR Failed</string>
+    <string name="ai_failed">AI cleanup failed</string>
+</resources>
