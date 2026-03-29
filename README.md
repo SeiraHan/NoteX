@@ -97,10 +97,15 @@ Unlike traditional note apps, NoteX focuses on:
 
 ## 📱 Screenshots
 
-![Home](screenshots/Home.png)  
-![Scanner](screenshots/Scan.png)  
-![AI Studio](screenshots/Studio.png)  
-![Translate](screenshots/Translate.png)  
+<p align="center">
+  <img src="screenshots/Home.png" width="45%" />
+  <img src="screenshots/Scan.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screenshots/Studio.png" width="45%" />
+  <img src="screenshots/Translate.png" width="45%" />
+</p>
 
 ---
 
@@ -124,13 +129,3 @@ Ilyas Akbar Khan
 ## 📄 License
 
 For educational and portfolio use.
-
-<p align="center">
-  <img src="screenshots/Home.png" width="45%" />
-  <img src="screenshots/Scan.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="screenshots/Studio.png" width="45%" />
-  <img src="screenshots/Translate.png" width="45%" />
-</p>
