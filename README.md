@@ -1,4 +1,4 @@
-# 📘 NoteX – AI-Powered Smart Notes with OCR, Translation & AI Studio
+# NoteX – AI-Powered Smart Notes with OCR, Translation & AI Studio
 
 NoteX is an Android productivity app that transforms the way you take and use notes.  
 It combines OCR scanning, AI-powered transformation, and translation into a single seamless workflow.
@@ -7,22 +7,22 @@ Instead of just storing notes, NoteX helps you convert raw content into useful o
 
 ---
 
-## 🚀 Features
+## Features
 
-### 📝 Smart Note Management
+### Smart Note Management
 - Create, edit, and delete notes
 - Clean and organized interface
 - Smooth browsing with RecyclerView
 
 ---
 
-### 📷 OCR Text Scanner
+### OCR Text Scanner
 - Capture images and extract text instantly
 - Convert handwritten or printed notes into digital format
 
 ---
 
-### 🤖 AI Studio (Core Feature)
+### AI Studio (Core Feature)
 Turn any note into something useful with one tap:
 
 - Summarize – Convert long notes into concise key points  
@@ -34,33 +34,33 @@ NoteX doesn’t just generate text — it transforms notes into actionable knowl
 
 ---
 
-### ✍️ AI Enhancement
+### AI Enhancement
 - Clean messy or unstructured text
 - Improve clarity and readability
 - Automatically format notes into structured content
 
 ---
 
-### 🌍 Translation
+### Translation
 - Translate notes into multiple languages
 - Useful for multilingual users and language learners
 
 ---
 
-### ☁️ Cloud Sync (Firebase)
+### Cloud Sync (Firebase)
 - Secure user-based storage
 - Access your notes across devices
 - Private data separation per user
 
 ---
 
-### ⚙️ Settings
+### Settings
 - Simple customization options
 - User-friendly configuration
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Input text or scan using OCR  
 2. Clean and enhance content using AI  
@@ -70,7 +70,7 @@ NoteX doesn’t just generate text — it transforms notes into actionable knowl
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Language: Java  
 - Platform: Android  
@@ -84,7 +84,7 @@ Core Integrations:
 
 ---
 
-## 🎯 What Makes NoteX Different
+## What Makes NoteX Different
 
 Unlike traditional note apps, NoteX focuses on:
 
@@ -95,7 +95,7 @@ Unlike traditional note apps, NoteX focuses on:
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="screenshots/Home.png" width="45%" />
@@ -109,7 +109,7 @@ Unlike traditional note apps, NoteX focuses on:
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
 - Smart AI suggestions (context-aware actions)
 - Save AI outputs as structured notes (quiz sets, flashcards)
@@ -120,12 +120,12 @@ Unlike traditional note apps, NoteX focuses on:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Ilyas Akbar Khan
 
 ---
 
-## 📄 License
+## License
 
 For educational and portfolio use.
